@@ -1,0 +1,5 @@
+Generalidades de TypeScript
+
+¿Por qué Angular usa TypeScript?
+
+Mitos y realidades de Angular
