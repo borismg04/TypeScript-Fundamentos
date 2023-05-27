@@ -23,6 +23,7 @@ const superHeroe = {
     return this.nombre + ', ' + this.direccion.ciudad + ', ' + this.direccion.pais;
   }
 };
-
+//hola prueba de cnexion para hacer uso de esto 
 const direccion = superHeroe.mostrarDireccion();
+console.log("🚀 ~ file: 04.TareaTipado.ts:28 ~ direccion:", direccion)
 console.log(direccion);
