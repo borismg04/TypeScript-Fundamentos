@@ -22,5 +22,4 @@ const returnChildrenNumber = ( passenger: Passenger ): number => {
     return howManyChildren;
 }
 
-
-returnChildrenNumber( passenger1 );
+returnChildrenNumber( passenger1 ); 
